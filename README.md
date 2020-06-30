@@ -28,15 +28,19 @@ possibly render some really interesting business insights.
 Furthermore, this analysis will enable us to formulate more concrete machine learning problems.
 From the data at hand it is possible to extract insights about customer behaviour especially the
 following questions can be addressed
+
 ● Problem Statement-1: Identifying the ownership pattern of cars throughout the
 country. This also captures the problem wherein information regarding the
 spending patterns can be identified
+
 ● Expected Business Outcome: Mahindra First Choice Services will be benefited in
 multiple ways. Knowing the ownership pattern targeted marketing campaigns
 could be carried out. Knowing the spending patterns services could be suited to
 the particular spending pattern.
+
 ● Problem Statement-2: Identify the type of order each state receives and present it
 as an interactive visualization.
+
 ● Expected Business Outcome: This could potentially give information about how
 Mahindra First Choice needs to be prepared to tackle various seasonal cases
 Market Segmentation:
@@ -50,24 +54,29 @@ patterns.
 Though clustering falls under a Machine Learning problem category called unsupervised
 learning, which requires extensive efforts, it is possible to carry out a visual analysis in a
 relatively short timespan.
+
 ● Problem Statement: Customer Lifetime value prediction - Based on Customer
 segments, predict the revenue that can be extracted from each segment over a
 life of the car -Regression/Time Series.
+
 ● Expected Business Outcome: This would be beneficial to Mahindra First Choice
 Services to identify the various segments in the market. Also, these
 segmentations would allow for targeted marketing activities and sales
 promotions.
-Approach
+
+Approach:
 You should perform the following activities
 1. Cleaning the data
 2. Processing and preparing the data for further analysis
 3. Analyzing data through various visual tools
 4. Building Predictive Models
+
 Data Cleaning
 In this process, you can
 ● Come up with effective measures to handle large volume data.
 ● Impute the missing values.
 ● Encode the categorical variables.
+
 Data Processing
 ● Preparing the data by tagging geolocation with positions
 ● Deriving Relevant features from multiple tables.
